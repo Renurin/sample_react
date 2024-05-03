@@ -2,6 +2,17 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Modules
+
+To run the project, some modules might need to be installed:
+
+- sass
+- bootstrap
+- bootstrap icons
+- react-router-dom
+- react-helmet-async
+- axios
+
 ## Available Scripts
 
 In the project directory, you can run:
